@@ -1,23 +1,23 @@
 {
-  "version": "0.1.6",
-  "generatedAt": "2026-07-22T16:40:54.288Z",
+  "version": "0.1.12",
+  "generatedAt": "2026-08-04T19:27:50.568Z",
   "publicUrl": "https://sistema-fechamento-erva-updates.onrender.com",
   "files": [
     {
       "fileName": "latest.yml",
-      "size": 362
+      "size": 363
     },
     {
       "fileName": "Sistema-Fechamento-Erva-Setup.exe",
-      "size": 92573888
+      "size": 92604284
     },
     {
       "fileName": "Sistema-Fechamento-Erva-Setup.exe.blockmap",
-      "size": 98562
+      "size": 99574
     },
     {
       "fileName": "Sistema Fechamento Erva.exe",
-      "size": 92330522
+      "size": 92360931
     }
   ]
 }
