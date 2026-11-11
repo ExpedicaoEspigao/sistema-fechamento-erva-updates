@@ -1,8 +1,8 @@
-version: 0.1.12
+version: 0.1.13
 files:
-  - url: Sistema-Fechamento-Erva-Setup.exe
-    sha512: hfu3xLs1Lv+edoBfJfxX9gakxZ/VgJeXoSvnA48joKIMPbot/d3X+4vvAF1hYi+nlpNYaNxaLgHeGfFBEXbwjw==
-    size: 92604284
+  - url: https://github.com/ExpedicaoEspigao/sistema-fechamento-erva-updates/releases/download/v0.1.13/Sistema-Fechamento-Erva-Setup.exe
+    sha512: UstR2f/8w8CECjk9j4EMDqyMfuPTYAWpZXUOocfDyD3oG7tRgyu9VNg8SJg9zf6zYuIZ7HqZiS8mzNnJOeXjyA==
+    size: 115641613
 path: Sistema-Fechamento-Erva-Setup.exe
-sha512: hfu3xLs1Lv+edoBfJfxX9gakxZ/VgJeXoSvnA48joKIMPbot/d3X+4vvAF1hYi+nlpNYaNxaLgHeGfFBEXbwjw==
-releaseDate: '2026-08-04T19:27:49.754Z'
+sha512: UstR2f/8w8CECjk9j4EMDqyMfuPTYAWpZXUOocfDyD3oG7tRgyu9VNg8SJg9zf6zYuIZ7HqZiS8mzNnJOeXjyA==
+releaseDate: '2026-11-11T18:02:39.738Z'

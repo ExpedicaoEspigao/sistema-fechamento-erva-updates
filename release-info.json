@@ -1,23 +1,27 @@
 {
-  "version": "0.1.12",
-  "generatedAt": "2026-08-04T19:27:50.568Z",
+  "version": "0.1.13",
+  "generatedAt": "2026-11-11T18:14:25.951Z",
   "publicUrl": "https://sistema-fechamento-erva-updates.onrender.com",
   "files": [
     {
       "fileName": "latest.yml",
-      "size": 363
+      "size": 364,
+      "downloadUrl": "https://github.com/ExpedicaoEspigao/sistema-fechamento-erva-updates/releases/download/v0.1.13/latest.yml"
     },
     {
       "fileName": "Sistema-Fechamento-Erva-Setup.exe",
-      "size": 92604284
+      "size": 115641613,
+      "downloadUrl": "https://github.com/ExpedicaoEspigao/sistema-fechamento-erva-updates/releases/download/v0.1.13/Sistema-Fechamento-Erva-Setup.exe"
     },
     {
       "fileName": "Sistema-Fechamento-Erva-Setup.exe.blockmap",
-      "size": 99574
+      "size": 121121,
+      "downloadUrl": "https://github.com/ExpedicaoEspigao/sistema-fechamento-erva-updates/releases/download/v0.1.13/Sistema-Fechamento-Erva-Setup.exe.blockmap"
     },
     {
       "fileName": "Sistema Fechamento Erva.exe",
-      "size": 92360931
+      "size": 105057295,
+      "downloadUrl": "https://github.com/ExpedicaoEspigao/sistema-fechamento-erva-updates/releases/download/v0.1.13/Sistema.Fechamento.Erva.exe"
     }
   ]
 }
